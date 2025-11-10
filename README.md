@@ -47,7 +47,7 @@ Trabalho avaliativo lins/
 
 1. Clone o repositório ou copie os arquivos:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/lThiag0/Teste-Mock-PHPUnit.git
    cd "Trabalho avaliativo lins"
    ```
 

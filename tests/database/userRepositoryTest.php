@@ -24,7 +24,7 @@ final class UserRepositoryTest extends TestCase
     }
 
     #[Test]
-    public function salvarEmostrarUsuario(): void
+    public function salvarEMostrarUsuario(): void
     {
         // Cria um novo usuário
         $user = new User("Thiago", "thiago@hotmail.com");
