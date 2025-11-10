@@ -106,11 +106,11 @@ Exemplo de saída esperada:
 PHPUnit 12.4.2 by Sebastian Bergmann and contributors.
 
 User Repository
- ✔ Salvar e listar usuario
+ ✔ Salvar e mostrar usuario
 
 User Service
- ✔ Deve lancar erro com email invalido
- ✔ Deve chamar metodo save do repositorio
+ ✔ Deve retornar erro quando email for invalido
+ ✔ Deve executar metodo save ao registrar usuario
 
 OK, but there were issues!
 Tests: 3, Assertions: 9, PHPUnit Deprecations: 1.
